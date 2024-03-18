@@ -1,0 +1,127 @@
+D:\CSI\LTWindow\winform\winform\bin\Debug\winform.exe.config
+D:\CSI\LTWindow\winform\winform\bin\Debug\winform.exe
+D:\CSI\LTWindow\winform\winform\bin\Debug\winform.pdb
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.csprojAssemblyReference.cache
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmNhanVien.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmSuaNV.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmThemNV.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.Properties.Resources.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.csproj.GenerateResource.cache
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.csproj.CoreCompileInputs.cache
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.exe
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.pdb
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmKhachHang.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmSuaKH.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmThemKH.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmNhaCungCap.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmSuaNCC.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmThemNCC.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmHangHoa.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmSuaHH.resources
+D:\CSI\LTWindow\winform\winform\obj\Debug\winform.frmThemHH.resources
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\bin\Debug\winform.exe.config
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\bin\Debug\winform.exe
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\bin\Debug\winform.pdb
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.csprojAssemblyReference.cache
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.frmHangHoa.resources
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.frmSuaHH.resources
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.frmThemHH.resources
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.Properties.Resources.resources
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.csproj.GenerateResource.cache
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.csproj.CoreCompileInputs.cache
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.exe
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.pdb
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.frmNhanVien.resources
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.frmSuaNV.resources
+C:\Users\dmcuo\Downloads\winform (1)\winform\winform\obj\Debug\winform.frmThemNV.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\winform.exe.config
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\winform.exe
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\winform.pdb
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmHangHoa.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmKhachHang.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmNhaCungCap.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmNhanVien.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmSuaHH.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmSuaKH.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmSuaNCC.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmSuaNV.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmThemHH.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmThemKH.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmThemNCC.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmThemNV.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.Properties.Resources.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.csproj.GenerateResource.cache
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.csproj.CoreCompileInputs.cache
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.exe
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.pdb
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.TimKiem.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\EnvDTE.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\stdole.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.csproj.CopyComplete
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.Form3.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmDangNhap.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\RdlCompile.cache
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\RdlCompile.compiled
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmXemBaoCao.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.Form1.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.Form2.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.Form4.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.XEMBAOCAO2.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmChiTietHD.resources
+C:\Users\dmcuo\Downloads\baithiwinform\winform\winform\obj\Debug\winform.frmQuanLyHD.resources
